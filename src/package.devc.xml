@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DEVC>
-    <CTEXT>Es una prueba para aprobar</CTEXT>
+    <CTEXT>Package Booking</CTEXT>
    </DEVC>
   </asx:values>
  </asx:abap>
